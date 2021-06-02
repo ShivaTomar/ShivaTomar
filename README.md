@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Micronaut, Spring and Angular**
 - 👯 I’m looking to collaborate on **Micronaut, Spring projects and Basic Web Dev stuff**
-- 💬 Ask me about **Micronaut, Spring**
+- 💬 Ask me about **Micronaut & Spring**
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/algorithmcity)
 <br /> 
 
