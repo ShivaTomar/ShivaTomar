@@ -22,11 +22,10 @@
 
 ## 🏆 Github Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivatomar&show_icons=true&locale=en&layout=compact" alt="shivatomar" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivatomar&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="shivatomar" width="45%" align="right" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivatomar&show_icons=true&locale=en" alt="shivatomar" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivatomar&show_icons=true&locale=en&hide_border=true&theme=dark" alt="shivatomar"  width="45%"  align="right"/>
 <br /> 
-
 
 <div align="center">
 
