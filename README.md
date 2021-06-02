@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shiva Tomar!
 
+https://img.shields.io/twitter/follow/ShivaTomar?style=social
+
 <!--
 **ShivaTomar/ShivaTomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
